@@ -1,0 +1,138 @@
+{
+  "discounts": [
+    {
+      "id": 1,
+      "description": "«LA П’ЄЦ» турбується про своїх клієнтів. Львів – велике і сучасне місто, тому ми стараємось цінувати Ваш час так само, як цінуєте його Ви. Наша доставка завжди з’являється біля ваших дверей вчасно. Якщо ні – замовник отримує промокод на безкоштовну піцу до наступного замовлення **.",
+      "imagePath": "https://la.ua/wp-content/uploads/2021/08/1-1-1.jpg"
+    },
+    {
+      "description": "Якщо ваш друг, зробить у нас замовлення завдяки вашим рекомендаціям, то ви обоє гарантовано отримаєте по 100 грн.",
+      "imagePath": "https://la.ua/wp-content/uploads/2021/08/6-1.jpg",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "піца",
+      "path": "pizza",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fpizza.svg?alt=media&token=f6d0819c-23cd-410c-b8ea-cfaf90351d7e",
+      "id": 1
+    },
+    {
+      "name": "салати",
+      "path": "salad",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fsalad.svg?alt=media&token=6569b522-70f3-44e1-8471-65c73eff2e2d",
+      "id": 2
+    },
+    {
+      "name": "десерти",
+      "path": "desserts",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fdesserts.svg?alt=media&token=52830104-9694-464b-b5dc-e09a6fc6e50c",
+      "id": 3
+    },
+    {
+      "name": "напої",
+      "path": "drinks",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fdrinks.svg?alt=media&token=2a888b5f-c051-44b2-8586-b3fffabd64fd",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "category": {
+        "name": "піца",
+        "path": "pizza",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fpizza.svg?alt=media&token=f6d0819c-23cd-410c-b8ea-cfaf90351d7e",
+        "id": 1
+      },
+      "name": "Піца La П’єц",
+      "path": "lapiec",
+      "description": "соус томатний, шинка, баварські ковбаски, сир моцарела, ковбаса салямі, прошуто.",
+      "weight": "480 гр",
+      "price": 210,
+      "proteins": 14.7,
+      "carbohydrates": 26.2,
+      "fat": 10.1,
+      "calories": 258,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fla-pyets.jpg?alt=media&token=c17e3193-fb79-40c9-ba71-9f1f082013c1",
+      "count": 1,
+      "id": 1
+    },
+    {
+      "category": {
+        "name": "салати",
+        "path": "salad",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fsalad.svg?alt=media&token=6569b522-70f3-44e1-8471-65c73eff2e2d",
+        "id": 2
+      },
+      "name": "Інсалата ді Сальмоне",
+      "path": "insalata-di-salmone",
+      "description": "рукола, помідор чері, огірок, салат айсберг, соус айолі, пармезан, лосось, перепелине яйце, кунжут.",
+      "weight": "285 гр",
+      "price": 152,
+      "proteins": 6.9,
+      "carbohydrates": 3.5,
+      "fat": 12.6,
+      "calories": 156,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Finsalata-di-salmone.png?alt=media&token=9c842516-4ef4-4903-a7de-23fd6560e1d8",
+      "count": 1,
+      "id": 2
+    },
+    {
+      "category": {
+        "name": "десерти",
+        "path": "desserts",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fdesserts.svg?alt=media&token=52830104-9694-464b-b5dc-e09a6fc6e50c",
+        "id": 3
+      },
+      "name": "Сирники",
+      "path": "syrnyky",
+      "description": "сирники, карамельний соус, сметана",
+      "weight": "240 гр",
+      "price": 75,
+      "proteins": 15.3,
+      "carbohydrates": 13.6,
+      "fat": 14.3,
+      "calories": 247,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fsyrnyky.png?alt=media&token=458ecdbd-9405-4e23-bfbd-85fcd855d153",
+      "count": 1,
+      "id": 3
+    },
+    {
+      "category": {
+        "name": "напої",
+        "path": "drinks",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Fdrinks.svg?alt=media&token=2a888b5f-c051-44b2-8586-b3fffabd64fd",
+        "id": 4
+      },
+      "name": "Апельсиновий нектар з м’якоттю",
+      "path": "rich-orange",
+      "description": "Апельсиновий нектар з м’якоттю, 1 л, ТМ “RICH”",
+      "weight": "1 л",
+      "price": 47,
+      "proteins": 0,
+      "carbohydrates": 0,
+      "fat": 0,
+      "calories": 0,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/la-ua-7edfa.appspot.com/o/images%2Frich_orange_small-1.jpg?alt=media&token=b9315a75-7321-4b6b-bd77-e35094983026",
+      "count": 1,
+      "id": 4
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "qwerty123",
+      "fullName": "Petro Petriv",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "email": "user@gmail.com",
+      "password": "qwerty123",
+      "fullName": "Pavlo Pavliv",
+      "role": "USER"
+    }
+  ]
+}
